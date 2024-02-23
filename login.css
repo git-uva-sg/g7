@@ -10,7 +10,7 @@ li {
 }
 
 input {
-	background-color: #333;
+	background-color: #d6142e;
 	border: none;
 	border-radius: 2px;
 	text-align: left;
@@ -61,5 +61,5 @@ width: 50%
 }
 
 body {
-	background-color: #333;
+	background-color: #0fd7b6;
 }
